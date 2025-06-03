@@ -1,3 +1,5 @@
+from abc import ABC, abstractmethod
+
 class A:
     def a(self):
         self.b()
